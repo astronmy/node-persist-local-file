@@ -1,0 +1,33 @@
+{
+  "name": "node-persist-local-file-tuto",
+  "version": "1.0.0",
+  "description": "Aplicación de comandos node de tutorial node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astronmy/node-persist-local-tuto.git"
+  },
+  "keywords": [
+    "Tutorial",
+    "Curso",
+    "Node.js",
+    "Persistir",
+    "en",
+    "archivo",
+    "local",
+    "JSON"
+  ],
+  "author": "Renzo Vinci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astronmy/node-persist-local-tuto/issues"
+  },
+  "homepage": "https://github.com/astronmy/node-persist-local-tuto#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.0.3"
+  }
+}
